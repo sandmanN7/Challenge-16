@@ -7,6 +7,9 @@ The objective is to see whether there is a major difference of 5-star ratings be
 
 ## Results
 
+
+[This is an image!](https://github.com/sandmanN7/Challenge-16/blob/main/Images/Results.png)
+
 For the unpaid reviews of products with a total number of votes 20 and over:
 
 - There are a total of 1685 reviews
@@ -16,6 +19,8 @@ For the unpaid reviews of products with a total number of votes 20 and over:
 - Approximately 37.4% of all reviews had five-star ratings.
 
 - There are no paid reviews for the digital video game product category.
+
+[This is an image!](https://github.com/sandmanN7/Challenge-16/blob/main/Images/yvine.png)
 
 ## Summary
 
